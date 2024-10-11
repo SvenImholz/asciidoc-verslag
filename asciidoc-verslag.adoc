@@ -1,4 +1,4 @@
-= Onderzoek naar de requirements van Verhuurjevakantiehuisje.nl: Requirements verslag
+= Title
 :title-page:
 :toc:
 :sectnums:
