@@ -1,6 +1,7 @@
 = Title
 :title-page:
 :toc:
+:toc-title: Inhoudsopgave
 :sectnums:
 :author: Sven Imholz
 :lang: nl
