@@ -1,0 +1,15 @@
+= Title
+:title-page:
+:toc:
+:sectnums:
+:author: Sven Imholz
+:lang: nl
+:table-caption: Tabel
+:section-refsig: Hoofdstuk
+:figure-caption: Afbeelding
+:xrefstyle: short
+:source-highlighter: highlight.js
+:highlightjs-theme: kimbie-dark
+:hyphens:
+
+== Inleiding
